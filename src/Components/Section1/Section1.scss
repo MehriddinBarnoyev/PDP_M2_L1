@@ -1,0 +1,20 @@
+.section1 {
+    background-image: url(../../images/uni.jpg);
+    background-size: cover;
+    min-height: 100vh;
+    position: relative;
+    
+}
+
+.section1 .title {
+    position: absolute;
+    top: 20rem;
+    left: 2rem;
+}
+.qadam2{
+ top: 25rem;
+} 
+.section1 img{
+    border-radius: 10rem !important;
+    width: 5% !important;
+}
