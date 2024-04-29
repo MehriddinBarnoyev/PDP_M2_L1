@@ -1,8 +1,25 @@
-.imgmine img{
+.section12 {
+    background-size: cover;
+    position: relative;
+}
+
+.section12 .title {
+    position: absolute;
+    top: 10rem;
+    left: 2rem;
+}
+
+.section12 .title .button1 {
+    position: relative;
+    left: 15rem;
+}
+
+.imgmine img {
     border-radius: 50px;
     width: 40px;
 }
-.fontAwesome{
-   color: rgb(22, 24, 24);
-   font-size: large;
+
+.fontAwesome {
+    color: rgb(22, 24, 24);
+    font-size: large;
 }
