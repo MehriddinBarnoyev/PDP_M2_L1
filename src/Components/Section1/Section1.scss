@@ -1,9 +1,9 @@
+// Section1.scss
 .section1 {
-    background-image: url(../../images/uni.jpg);
+    background-image: url("../../images/uni.jpg");
     background-size: cover;
     min-height: 100vh;
     position: relative;
-    
 }
 
 .section1 .title {
@@ -11,10 +11,12 @@
     top: 20rem;
     left: 2rem;
 }
-.qadam2{
- top: 25rem;
-} 
-.section1 img{
-    border-radius: 10rem !important;
-    width: 5% !important;
+
+.section1 .title p {
+    margin-bottom: 1rem;
+}
+
+.section1 img {
+    border-radius: 50%;
+    width: 100px;
 }

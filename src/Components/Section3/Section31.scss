@@ -1,48 +1,60 @@
-.informations{
+// Section3.scss
+.informations {
     background-size: cover;
     position: relative;
 }
-.infor{
+
+.infor {
     position: absolute;
     top: 20rem;
     left: 2rem;
 }
-.infor img{
+
+.infor img {
     border-radius: 50px;
     width: 50px;
 }
-.leftCards img{
-border-radius: 15px;
+
+.leftCards img {
+    border-radius: 15px;
 }
-.desc button{
+
+.desc button {
     border-radius: 70px;
 }
-.nature{
+
+.nature {
     width: 800px;
     border-radius: 10px;
 }
-.mine1{
+
+.mine1 {
     width: 20px;
     height: 30px;
     border-radius: 50px;
 }
-.cardimg{
+
+.cardimg {
     border-radius: 20px !important;
 }
-.secondCard{
+
+.secondCard {
     background-size: cover;
     position: relative;
 }
-.secondCard img{
+
+.secondCard img {
     width: 200px;
     border-radius: 10px;
 }
-.text36{
+
+.text36 {
     position: absolute;
-    top: 8rem; 
+    top: 8rem;
     text-align: center;
 }
-.sectionFOoter{
+
+.sectionFOoter {
     background-color: rgb(250, 246, 246);
     border-radius: 10px;
 }
